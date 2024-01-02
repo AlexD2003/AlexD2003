@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Alex Domniț
 #### 💬About me:
+I`m a second year student at Babeș-Bolyai University undergoing an English MCS Bachelor.
