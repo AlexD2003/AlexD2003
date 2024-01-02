@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Alex Domniț
 #### 💬About me:
 I`m a second year student at Babeș-Bolyai University undergoing an English MCS Bachelor.
-![Alt Text]([url_of_your_gif](https://steamuserimages-a.akamaihd.net/ugc/906777917624625831/4814BD70CCDBB3EA311C655D7A4EBA4E12E6C84D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)https://steamuserimages-a.akamaihd.net/ugc/906777917624625831/4814BD70CCDBB3EA311C655D7A4EBA4E12E6C84D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Example GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJrajFkeWs4YjV6Z212YXZybGZycGppMmw1cDd0aXF0OGtvc2EyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cP2EnVx0GBPqPGPeiM/source.gif)
