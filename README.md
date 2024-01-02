@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**`Alex Domniț`**
+#**`Alex Domniț`**
+<span style="font-size:20px;">Alex Domniț</span>
