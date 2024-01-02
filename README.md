@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ## Alex Domniț
 #### 💬About me:
 I`m a second year student at Babeș-Bolyai University undergoing an English MCS Bachelor.
+![Alt Text]([url_of_your_gif](https://steamuserimages-a.akamaihd.net/ugc/906777917624625831/4814BD70CCDBB3EA311C655D7A4EBA4E12E6C84D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)https://steamuserimages-a.akamaihd.net/ugc/906777917624625831/4814BD70CCDBB3EA311C655D7A4EBA4E12E6C84D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
