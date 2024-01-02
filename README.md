@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Alex Domniț
 #### 💬About me:
-I`m a second year student at Babeș-Bolyai University undergoing an English MCS Bachelor.
+I`m a second year student at Babeș-Bolyai University undergoing an English MCS Bachelor`s degree.
 ----------------------------------------------------------------------------------------
 ![Example GIF](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc2795bb-0b37-47d9-a89c-3e2c770b9387/da0y27g-df087363-d69c-4adb-9bfe-5cb178e18783.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjMjc5NWJiLTBiMzctNDdkOS1hODljLTNlMmM3NzBiOTM4N1wvZGEweTI3Zy1kZjA4NzM2My1kNjljLTRhZGItOWJmZS01Y2IxNzhlMTg3ODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RZC5n3WYy9J7Zi_W3T_R_-uUeAqDJDaJJtxKyAu9JZo)
 <hr style="height:3px;border:none;color:#333;background-color:#333;">
